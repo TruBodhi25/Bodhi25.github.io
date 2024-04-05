@@ -19,8 +19,15 @@
 
 <!-- end custom head snippets -->
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="en-US">
   <head>
+    <!-- Your head content here -->
+  </head>
+  <body>
+    <!-- Your body content here -->
+  </body>
+</html>
+
     <meta charset="UTF-8">
 
 {% seo %}
