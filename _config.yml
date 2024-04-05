@@ -37,6 +37,7 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
     {% include head-custom.html %}
   </head>
   <body>
@@ -67,9 +68,3 @@
   </body>
 </html>
 =======
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-cayman
->>>>>>> b2b72cfe1c37ecbaf779a55dcd4139f1eecae93c
